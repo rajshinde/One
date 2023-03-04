@@ -1,1 +1,1 @@
-python one.py
+python NHSTA.py 
